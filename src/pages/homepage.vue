@@ -5,7 +5,9 @@
         <banner/>
         <services/>
         <about/>
+        <education></education>
         <portfolio></portfolio>
+        <testimonials></testimonials>
         <contact></contact>
         <myFooter></myFooter>
 
@@ -25,7 +27,9 @@
     import banner from "../components/banner.vue"
     import services from "../components/services.vue"
     import about from "../components/about.vue"
+    import education from "../components/education.vue"
     import portfolio from '../components/portfolio.vue'
+    import testimonials from '../components/testimonials.vue'
     import contact from '../components/contact.vue'
     import myFooter from '../components/footer.vue'
     import navigation from '../components/navigation.vue'
@@ -37,7 +41,9 @@
             banner,
             services,
             about,
+            education,
             portfolio,
+            testimonials,
             contact,
             myFooter,
             // divider

@@ -3,7 +3,7 @@
           
           <div class="intro">
             <p class="ma-0 pa-0">Introducting</p>
-            <h1 class="heading ma-0 pa-0 "> Simamkele January's Portfolio </h1>
+            <h1 class="heading ma-0 pa-0 ">Simamkele's Portfolio </h1>
             <h2 class="secondary-text"> An  <span> Aspiring </span> junior full-stack developer </h2>
             <!-- <v-btn color="accent" outlined class="btn my-8">
                 View more 

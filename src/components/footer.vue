@@ -19,21 +19,13 @@
                     mdi-chevron-double-up
                 </v-icon>
             </v-btn>
-            <p class='copyright'>AABID SOFI 
+            <p class='copyright'>SIMAMKELE JANUARY
                 <span>
                     <v-icon color="primary" class='copyright-icon my-auto' size='16px'>
                         mdi-copyright 
                     </v-icon>{{ year }}
                 </span> 
             </p>
-
-
-            <!-- credits             -->
-            <!-- giving credits is not neccessary but keeping this will be considered a token of appreciation and will be helpfull also  -->
-            <p class="gray pb-3 credit">
-                Designed and Developed with  ❤️  by <a href="https://aabidsofi.com">aabid sofi</a>
-            </p>
-
         </v-container>
     </v-footer>
 </template>
